@@ -30,7 +30,6 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  margin-top: 3vh;
 }
 
 .title {
@@ -61,4 +60,8 @@
 }
 .explore {
   margin-top: 8vh;
+  font-size: 30px;
+}
+.carousel_row{
+  margin-top: 3vh;
 }

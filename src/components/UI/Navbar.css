@@ -9,3 +9,14 @@
 .brand_name {
   font-size: 45px;
 }
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.menu > p {
+  margin-left: 15px;
+}
+.hamburger {
+  cursor: pointer;
+}

@@ -46,8 +46,8 @@ const Landing = (props) => {
           <div className="content five">
             <ItemCard
               sideText="SALE UPTO 50% OFF"
-              imgurl={require("../../assets/images/sofa.png")}
-              title="Light collections"
+              imgurl={require("../../assets/images/bed.png")}
+              title="Bed Frames"
             />
           </div>
         </div>
